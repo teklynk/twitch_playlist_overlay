@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Basic');
+
+html, body {
+    overflow: hidden;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    font-family: 'Basic', sans-serif;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.75);
+    color: white;
+}
+#container {
+    vertical-align: middle;
+    text-align: left;
+    padding: 4px;
+}
+audio {
+    display: none;
+}
+.details, .albumart {
+    float: left;
+    vertical-align: middle;
+}
+.name {
+    padding: 8px 0 0 2px;
+    font-weight: bold;
+    font-size: large;
+    vertical-align: middle;
+}
+.artist {
+    padding: 0 0 0 2px;
+    font-weight: normal;
+    font-size: medium;
+    vertical-align: middle;
+}
+.url {
+    padding: 0 0 0 2px;
+    font-weight: normal;
+    font-size: small;
+    vertical-align: middle;
+}
+.albumart {
+    padding: 8px;
+}
+.image {
+    max-width: 60px;
+    max-height: 60px;
+    margin-right: 4px;
+    vertical-align: middle;
+    border-radius: 2px;
+    border: solid 1px black;
+    padding: 0;
+    box-shadow:2px 2px 2px rgba(0, 0, 0, 0.75);
+}
