@@ -53,8 +53,6 @@ $(document).ready(function () {
         } else {
             $('img.image').css("display","none");
         }
-
-        drawAudio(tracklist_file[track_index].path);
     }
 
     function nextTrack() {
