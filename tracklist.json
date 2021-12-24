@@ -208,5 +208,26 @@
     "image": "https://freemusicarchive.org/image?file=image%2F8pcncHUJ6dsgWLrkgxhIabqHqeYcRY6TwNMweAnC.jpeg&width=155&height=155&type=image",
     "path": "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/8ogUE8P434G9G6IWobuy1AjDKw6Fer4m7q2X0iQA.mp3",
     "url": "https://freemusicarchive.org/music/eaters"
+  },
+  {
+    "name": "Brother Sing, Sister Shout (We Are All Migrants)",
+    "artist": "The Silence Industry",
+    "image": "https://freemusicarchive.org/image?file=images%2Falbums%2Fthe_silence_industry_-_Brother_Sing_Sister_Shout_And_Other_Conspiracies_-_2014022670619067.jpg&width=290&height=290&type=image",
+    "path": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/the_silence_industry/Brother_Sing_Sister_Shout_And_Other_Conspiracies/the_silence_industry_-_01_-_Brother_Sing_Sister_Shout_We_Are_All_Migrants.mp3",
+    "url": "https://freemusicarchive.org/music/the_silence_industry"
+  },
+  {
+    "name": "Against The Gods",
+    "artist": "The Silence Industry",
+    "image": "https://freemusicarchive.org/image?file=images%2Falbums%2Fthe_silence_industry_-_Brother_Sing_Sister_Shout_And_Other_Conspiracies_-_2014022670619067.jpg&width=290&height=290&type=image",
+    "path": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/the_silence_industry/Brother_Sing_Sister_Shout_And_Other_Conspiracies/the_silence_industry_-_03_-_Against_The_Gods.mp3",
+    "url": "https://freemusicarchive.org/music/the_silence_industry"
+  },
+  {
+    "name": "Breakin' The Law Of Value",
+    "artist": "The Silence Industry",
+    "image": "https://freemusicarchive.org/image?file=images%2Falbums%2Fthe_silence_industry_-_Brother_Sing_Sister_Shout_And_Other_Conspiracies_-_2014022670619067.jpg&width=290&height=290&type=image",
+    "path": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/the_silence_industry/Brother_Sing_Sister_Shout_And_Other_Conspiracies/the_silence_industry_-_05_-_Breakin_The_Law_Of_Value.mp3",
+    "url": "https://freemusicarchive.org/music/the_silence_industry"
   }
 ]
