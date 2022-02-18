@@ -10,6 +10,7 @@ $(document).ready(function () {
     let shuffle = getUrlParameter('shuffle');
     let albumart = getUrlParameter('albumart');
     let volume = getUrlParameter('volume');
+    let playlist = getUrlParameter('playlist');
 
     // Default values if nothing is set
     if (!volume) {
@@ -21,9 +22,12 @@ $(document).ready(function () {
     if (!shuffle) {
         shuffle = "false";
     }
+    if (!playlist) {
+        playlist = "tracklist";
+    }
 
     // Json data
-    let tracklist_file = JSON.parse($.getJSON({'url': "./tracklist.json", 'async': false}).responseText);
+    let tracklist_file = JSON.parse($.getJSON({'url': "./" + playlist + ".json", 'async': false}).responseText);
 
     // Default track index
     let track_index = 0;
